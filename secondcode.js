@@ -1,6 +1,6 @@
 console.log("My name is Billa")
 
-let num = 5;
+let num = 50;
 
 for(let i=0; i<=num;i++){
 
