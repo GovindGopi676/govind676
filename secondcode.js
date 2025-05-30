@@ -1,0 +1,8 @@
+console.log("My name is Billa")
+
+let num = 5;
+
+for(let i=0; i<=num;i++){
+
+    console.log("@")
+}
