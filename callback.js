@@ -1,5 +1,5 @@
 
-/*
+
 function sum (num1, num2, cb)
 {
 let output=console.log(num1+num2);
@@ -51,7 +51,7 @@ function div (girl){
 
 sub('gopi', div) 
 
-*/
+
 
 
 function sum (num1,num2, callback){
