@@ -1,11 +1,11 @@
-// let numbers = [1, 2, 3, 4];
+let numbers = [1, 2, 3, 4];
 
-// console.log(typeof(numbers))
+console.log(typeof(numbers))
 
-// numbers.forEach(function(num) {
-//   console.log(num * 2);
-// });
-// // Output: 2, 4, 6, 8
+numbers.forEach(function(num) {
+  console.log(num * 2);
+});
+// Output: 2, 4, 6, 8
 
 
 const input = "applee";
