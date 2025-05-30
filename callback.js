@@ -1,5 +1,4 @@
 
-
 function sum (num1, num2, cb)
 {
 let output=console.log(num1+num2);
